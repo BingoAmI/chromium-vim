@@ -1,6 +1,10 @@
 # cVim Changelog
 # [Like cVim? Consider donating! https://www.paypal.me/1995eaton](https://www.paypal.me/1995eaton)
 
+## 1.3.01 (2020-08-02)
+ * Updated list of `chrome://` completion URLs when `:chrome` is used
+ * Fixed link issue of f/F key
+
 ## 1.2.99 (2017-12-17)
  * Updated list of `chrome://` completion URLs when `:chrome` is used
  * Fixed issue with `openPasteTab` [#573](https://github.com/1995eaton/chromium-vim/issues/573)
